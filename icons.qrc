@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/pause_icon.png</file>
+        <file>Icons/play_icon2.png</file>
+        <file>Icons/back_music_icon.png</file>
+        <file>Icons/next_music_icon.png</file>
+        <file>Icons/playlist.png</file>
+        <file>Icons/playlist_icon.png</file>
+        <file>Icons/volume_on.png</file>
+        <file>Icons/volume_off.png</file>
+        <file>Icons/back_music_icon_grey.png</file>
+        <file>Icons/playlist_icon_grey.png</file>
+        <file>Icons/next_music_icon_grey.png</file>
+        <file>Icons/play_icon_grey.png</file>
+        <file>Icons/volume_on_grey.png</file>
+        <file>Icons/pause_icon_grey.png</file>
+        <file>Icons/volume_off_grey.png</file>
+    </qresource>
+</RCC>
